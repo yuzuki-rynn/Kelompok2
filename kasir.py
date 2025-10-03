@@ -13,7 +13,7 @@ while True:
     | 1 | MIE INSTAN   | Rp. 3.000,00  |
     | 2 | NASI GORENG  | Rp. 10.000,00 |
     | 3 | NASI PADANG  | Rp. 15.000,00 |
-    | 4 | SAYUR        | Rp. 5.000,00  |
+    | 4 | ES JERUK     | Rp. 5.000,00  |
     | 5 | PECEL LELE   | Rp. 8.000,00  |
     | 6 | ES TEH MANIS | Rp. 3.000,00  |
     | 7 | CORNETO      | Rp. 15.000,00 |
@@ -40,7 +40,7 @@ while True:
         harga.append(15000)
         total_harga += 15000
     elif KODE == 4:
-        barang.append("SAYUR")
+        barang.append("ES JERUK")
         harga.append(5000)
         total_harga += 5000
     elif KODE == 5:
