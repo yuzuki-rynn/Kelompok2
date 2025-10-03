@@ -1,4 +1,4 @@
-print("===== KASIR IAN =====")
+print("===== KASIR GO! =====")
 print(" === SELAMAT BERBELANJA ===")
 
 harga = []
